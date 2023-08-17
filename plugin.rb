@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# name: send-pdf-inline
+# name: discourse-send-pdf-inline
 # about: serve all PDFs inline
 # version: 0.1
 # authors: Thomas Kalka (toka)
